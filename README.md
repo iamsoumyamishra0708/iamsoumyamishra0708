@@ -1,7 +1,7 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20SOUMYA%20MISHRA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+with+Python+%F0%9F%90%8D;Turning+data+into+decisions+%F0%9F%93%8A;Shipping+GenAI+%26+Agentic+AI+to+production+%F0%9F%A4%96;ML+%E2%86%92+MLOps+%E2%86%92+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
