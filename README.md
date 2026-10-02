@@ -9,9 +9,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=00d4ff)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square&color=ffd700)
+![Profile Views](https://komarev.com/ghpvc/?username=iamsoumyamishra0708&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/iamsoumyamishra0708?label=Followers&style=flat-square&color=00d4ff)
+![Stars](https://img.shields.io/github/stars/iamsoumyamishra0708?label=Stars&style=flat-square&color=ffd700)
 
 </div>
 
@@ -62,13 +62,13 @@ class Engineer:
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🏠 **[MLOps House Price Prediction](https://github.com/YOUR_GITHUB_USERNAME/house_price_prediction)** | End-to-end MLOps pipeline: data on S3, RandomForest model, MLflow tracking & model registry, FastAPI serving with a custom UI, Dockerized and deployed on EC2 | `Python` `MLflow` `FastAPI` `Docker` `AWS S3` `EC2` `GitHub Actions` |
-| 🔍 **[AI GitHub PR Code Reviewer](https://github.com/YOUR_GITHUB_USERNAME/pr-code-reviewer)** | Event-driven reviewer using 5 FastAPI microservices and a 4-agent LangGraph workflow (static analysis, security, architecture, style) with a learner that adapts to team style | `LangGraph` `FastAPI` `Celery` `Redis` `PostgreSQL` `Langfuse` `Prometheus` `Grafana` |
-| 🤖 **[Autonomous CI/CD Bug-Remediation Agent](https://github.com/YOUR_GITHUB_USERNAME/cicd-bug-remediation-agent)** | Agentic system that detects CI/CD failures and code issues and proposes automated fixes | `LangGraph` `Azure OpenAI` `Kubernetes` `GitHub Actions` `SonarQube` `Datadog` |
-| ❄️ **[Cold-Chain Logistics Dispatch Console](https://github.com/YOUR_GITHUB_USERNAME/cold-chain-dispatch-console)** | ReAct agent that combines SQL Server telemetry, live weather and RAG over compliance rulebooks, with an immutable audit log of every decision | `LangGraph` `SQL Server` `Vector RAG` `Streamlit` `AWS EC2` |
-| 🛒 **[AI Shopping Assistant](https://github.com/YOUR_GITHUB_USERNAME/ecommerce-ai-shopping-assistant)** | Modernizes an e-commerce monolith with a guardrailed conversational shopping assistant | `FastAPI` `Pydantic AI` `Groq` `MongoDB Atlas` `Portkey` `Logfire` `Cloud Run` |
-| ✈️ **[Travel Planning Multi-Agent System](https://github.com/YOUR_GITHUB_USERNAME/travel-planning-multi-agent)** | LLM-powered planner for destination research, itinerary generation and personalized recommendations | `LangGraph` `GenAI` `Python` |
-| ⚖️ **[Contract Risk & Legal Intelligence Agent](https://github.com/YOUR_GITHUB_USERNAME/contract-risk-legal-agent)** | GenAI assistant that analyzes contracts and surfaces risky clauses | `LangChain` `GenAI` `RAG` |
+| 🏠 **[MLOps House Price Prediction](https://github.com/iamsoumyamishra0708/house_price_prediction)** | End-to-end MLOps pipeline: data on S3, RandomForest model, MLflow tracking & model registry, FastAPI serving with a custom UI, Dockerized and deployed on EC2 | `Python` `MLflow` `FastAPI` `Docker` `AWS S3` `EC2` `GitHub Actions` |
+| 🔍 **[AI GitHub PR Code Reviewer](https://github.com/iamsoumyamishra0708/pr-code-reviewer)** | Event-driven reviewer using 5 FastAPI microservices and a 4-agent LangGraph workflow (static analysis, security, architecture, style) with a learner that adapts to team style | `LangGraph` `FastAPI` `Celery` `Redis` `PostgreSQL` `Langfuse` `Prometheus` `Grafana` |
+| 🤖 **[Autonomous CI/CD Bug-Remediation Agent](https://github.com/iamsoumyamishra0708/cicd-bug-remediation-agent)** | Agentic system that detects CI/CD failures and code issues and proposes automated fixes | `LangGraph` `Azure OpenAI` `Kubernetes` `GitHub Actions` `SonarQube` `Datadog` |
+| ❄️ **[Cold-Chain Logistics Dispatch Console](https://github.com/iamsoumyamishra0708/cold-chain-dispatch-console)** | ReAct agent that combines SQL Server telemetry, live weather and RAG over compliance rulebooks, with an immutable audit log of every decision | `LangGraph` `SQL Server` `Vector RAG` `Streamlit` `AWS EC2` |
+| 🛒 **[AI Shopping Assistant](https://github.com/iamsoumyamishra0708/ecommerce-ai-shopping-assistant)** | Modernizes an e-commerce monolith with a guardrailed conversational shopping assistant | `FastAPI` `Pydantic AI` `Groq` `MongoDB Atlas` `Portkey` `Logfire` `Cloud Run` |
+| ✈️ **[Travel Planning Multi-Agent System](https://github.com/iamsoumyamishra0708/travel-planning-multi-agent)** | LLM-powered planner for destination research, itinerary generation and personalized recommendations | `LangGraph` `GenAI` `Python` |
+| ⚖️ **[Contract Risk & Legal Intelligence Agent](https://github.com/iamsoumyamishra0708/contract-risk-legal-agent)** | GenAI assistant that analyzes contracts and surfaces risky clauses | `LangChain` `GenAI` `RAG` |
 
 ---
 
@@ -76,16 +76,16 @@ class Engineer:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamsoumyamishra0708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsoumyamishra0708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=iamsoumyamishra0708&theme=tokyonight&hide_border=true&background=0d1117" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=iamsoumyamishra0708&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 
 </div>
 
